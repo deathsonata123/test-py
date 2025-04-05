@@ -1,0 +1,8 @@
+Flask
+pdf2image
+pytesseract
+PyMuPDF
+reportlab
+gunicorn
+requests
+werkzeug
